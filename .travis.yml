@@ -1,5 +1,0 @@
-language: bash
-install: true
-script:
-- chmod +x ./o.sh
-- ./o.sh
